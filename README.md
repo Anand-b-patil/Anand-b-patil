@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Patil</h1>
 <h3 align="center">🎓 Final Year CSE Student | 🤖 AI/ML Enthusiast | 🧠 Deep Learning Practitioner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anand-b-patil&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
