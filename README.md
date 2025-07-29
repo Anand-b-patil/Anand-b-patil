@@ -70,13 +70,13 @@ Forecasts solar irradiance using IR sky images and hybrid DL models
 ### 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/anand-patil-789351289/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Anand-b-patil" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ap6272440@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/40/D14836/gmail.png" alt="Email"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
