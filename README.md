@@ -20,7 +20,7 @@
 A regression model to predict laptop prices from specifications  
 **Tech:** Streamlit, scikit-learn, Pandas, Matplotlib  
 ✅ Feature engineering, log normalization, model serialization  
-🎯 Achieved ~90% accuracy  
+🎯 Achieved ~90+ R2_Score
 
 #### 🗣️ [Multilingual Speech Emotion Recognition](https://github.com/Anand-b-patil/Multilingual-speech-emotion-recognition-using-MFCC)
 Detects emotions from multilingual speech using audio features  
