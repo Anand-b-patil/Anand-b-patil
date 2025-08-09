@@ -22,6 +22,16 @@ A regression model to predict laptop prices from specifications
 ✅ Feature engineering, log normalization, model serialization  
 🎯 Achieved ~90+ R2_Score
 
+#### 🌿 [Smart Fertilizer Recommendation System](https://github.com/Anand-b-patil/Smart-Fertilizer-Recommendation-System)
+A machine learning-based system that recommends the best fertilizer for given soil and environmental conditions.  
+**Tech:** Python, Streamlit, scikit-learn, pandas, numpy, joblib  
+**Algorithms:** Random Forest Classifier + Rule-Based Expert System  
+**Features:**  
+- Accepts soil parameters (NPK values, moisture, temperature, humidity, soil type, crop type)  
+- Provides fertilizer recommendation with confidence score & explanation  
+- Interactive UI with Streamlit  
+- Integrates agricultural best practices into predictions 
+
 #### 🗣️ [Multilingual Speech Emotion Recognition](https://github.com/Anand-b-patil/Multilingual-speech-emotion-recognition-using-MFCC)
 Detects emotions from multilingual speech using audio features  
 **Tech:** CNN, LSTM, Transformer | Librosa | Flask | JS  
