@@ -29,7 +29,6 @@ A machine learning-based system that recommends the best fertilizer for given so
 **Features:**  
 - Accepts soil parameters (NPK values, moisture, temperature, humidity, soil type, crop type)  
 - Provides fertilizer recommendation with confidence score & explanation  
-- Interactive UI with Streamlit  
 - Integrates agricultural best practices into predictions 
 
 #### 🗣️ [Multilingual Speech Emotion Recognition](https://github.com/Anand-b-patil/Multilingual-speech-emotion-recognition-using-MFCC)
