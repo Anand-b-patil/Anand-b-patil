@@ -3,26 +3,26 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 👨‍🎓 Final year B.E. Computer Science student at **Angadi Institute of Technology and Management**  
-- 💡 Passionate about solving real-world problems using **Machine Learning** & **Deep Learning**  
-- 🧠 Experienced in building ML pipelines with **TensorFlow**, **PyTorch**, **scikit-learn**  
-- 🌐 Comfortable with **Flask**, **HTML/CSS**, and basic **Full-Stack Development**  
-- 📈 Currently working on real-time AI applications and hybrid deep learning frameworks  
-- 📬 Email me at: [ap6272440@gmail.com](mailto:ap6272440@gmail.com)  
-- 📍 Based in Belagavi, Karnataka, India  
+### About Me
+- Final year B.E. Computer Science student at **Angadi Institute of Technology and Management**  
+- Passionate about solving real-world problems using **Machine Learning** & **Deep Learning**  
+- Experienced in building ML pipelines with **TensorFlow**, **PyTorch**, **scikit-learn**  
+- Comfortable with **Flask**, **HTML/CSS**, and basic **Full-Stack Development**  
+- Currently working on real-time AI applications and hybrid deep learning frameworks  
+- Email me at: [ap6272440@gmail.com](mailto:ap6272440@gmail.com)  
+- Based in Belagavi, Karnataka, India  
 
 ---
 
-### 🚀 My Projects
+### My Projects
 
-#### 💻 [Laptop Price Predictor](https://github.com/Anand-b-patil/Laptop-Price-Predictor)
+#### [Laptop Price Predictor](https://github.com/Anand-b-patil/Laptop-Price-Predictor)
 A regression model to predict laptop prices from specifications  
 **Tech:** Streamlit, scikit-learn, Pandas, Matplotlib  
-✅ Feature engineering, log normalization, model serialization  
-🎯 Achieved ~90+ R2_Score
+Feature engineering, log normalization, model serialization  
+Achieved ~90+ R2_Score
 
-#### 🌿 [Smart Fertilizer Recommendation System](https://github.com/Anand-b-patil/Smart-Fertilizer-Recommendation-System)
+#### [Smart Fertilizer Recommendation System](https://github.com/Anand-b-patil/Smart-Fertilizer-Recommendation-System)
 A machine learning-based system that recommends the best fertilizer for given soil and environmental conditions.  
 **Tech:** Python, Streamlit, scikit-learn, pandas, numpy, joblib  
 **Algorithms:** Random Forest Classifier + Rule-Based Expert System  
@@ -31,18 +31,18 @@ A machine learning-based system that recommends the best fertilizer for given so
 - Provides fertilizer recommendation with confidence score & explanation  
 - Integrates agricultural best practices into predictions 
 
-#### 🗣️ [Multilingual Speech Emotion Recognition](https://github.com/Anand-b-patil/Multilingual-speech-emotion-recognition-using-MFCC)
+#### [Multilingual Speech Emotion Recognition](https://github.com/Anand-b-patil/Multilingual-speech-emotion-recognition-using-MFCC)
 Detects emotions from multilingual speech using audio features  
 **Tech:** CNN, LSTM, Transformer | Librosa | Flask | JS  
-🎧 Uses MFCC, Chroma, and Mel spectrograms  
+Uses MFCC, Chroma, and Mel spectrograms  
 
-#### 🌞 [Hybrid CNN-LSTM for Solar Irradiance Forecasting](https://github.com/Anand-b-patil/Hybrid-CNN-LSTM-for-Solar-Irradiance-Forecasting)
+#### [Hybrid CNN-LSTM for Solar Irradiance Forecasting](https://github.com/Anand-b-patil/Hybrid-CNN-LSTM-for-Solar-Irradiance-Forecasting)
 Forecasts solar irradiance using IR sky images and hybrid DL models  
 **Tech:** PyTorch, OpenCV, CNN + LSTM  
-📉 Reduced RMSE from 47.24 → 33.51 W/m²  
+Reduced RMSE from 47.24 → 33.51 W/m²  
 
 ---
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
