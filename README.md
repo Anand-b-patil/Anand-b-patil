@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Patil</h1>
-<h3 align="center">🎓 Final Year CSE Student | 🤖 AI/ML Enthusiast | 🧠 Machine Learning & Deep Learning Practitioner</h3>
+<h3 align="center">🤖 AI/ML Enthusiast | 🧠 Machine Learning & Deep Learning Practitioner</h3>
 
 
 ---
