@@ -15,6 +15,16 @@
 ---
 
 ### 🚀 Featured Projects
+#### 📌 [InsightMail – AI Email Summarization & Inbox Intelligence](https://github.com/Anand-b-patil/InsightMail)
+An **AI-powered email analytics platform** that summarizes emails, extracts actionable insights, identifies tasks, and generates quick replies.  
+**Tech:** Python, Flask, Google Gemini API, HTML/CSS/JS  
+**Highlights:**
+- Smart **email summarization** using generative AI  
+- Automatic **task extraction**, action items & follow-ups  
+- Quick-reply generation for improved productivity  
+- Minimal and clean UI for faster workflow  
+
+---
 
 #### 📌 [LeadBoost – AI-Powered Lead Generation Platform](https://github.com/Anand-b-patil/LeadBoost)
 An **AI-driven CRM platform** that automates lead scoring, enrichment, and personalized outreach.  
