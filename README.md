@@ -94,6 +94,13 @@ Git • GitHub • Jupyter • Colab • VS Code • Kaggle • Linux
 🏅 **Ingenious 2k25 – Innovation Challenge**  
 Awarded for developing a **Multilingual Speech Emotion Recognition System** using LSTM, MFCC & Mel-Spectrograms for real-time emotion detection.
 
+🏅 **CODE BHARAT 2025 – Hackathon (IIIT Dharwad)**  
+Secured **3rd Prize out of 130+ teams** for developing **InsightMail**, an AI-driven email intelligence system featuring:  
+• Intent & emotion detection  
+• Urgency & compliance analysis  
+• RAG-based contextual insights  
+
+
 ---
 
 ### 📫 Connect with Me
